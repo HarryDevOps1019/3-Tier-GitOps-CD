@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: harry1019/frontend:f54652a87d08651ca92fb5d72960cc6bd4098113
+          image: harry1019/frontend:3722aab0eeb22fa44d2eb64496a7268701df883c
           ports:
             - containerPort: 80
 ---
